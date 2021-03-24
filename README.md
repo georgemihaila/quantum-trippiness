@@ -1,4 +1,4 @@
-# quantum-trippiness
+# quantum-weirdness
 
 Solution to Schrodinger's equation for a particle in a dissapearing quantum well contained in a two-dimensional space
 
